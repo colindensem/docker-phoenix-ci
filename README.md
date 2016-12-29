@@ -4,8 +4,6 @@ Phoenix / Elixir docker image for Gitlab CI purposes.
 
 Goal is to provide environment for GITLAB CI to run via MySQL
 
-
-
 ## To Build
 
 ```bash
